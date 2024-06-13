@@ -7,8 +7,7 @@
 </p>
 
 ## Preview 
-
-
+https://github.com/jxc03/musicPlayer/assets/153110695/31e04230-eb41-43e7-b363-f4d57a077afc
 
 ## Steps
 **S1**<br>
